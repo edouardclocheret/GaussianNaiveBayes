@@ -1,0 +1,24 @@
+name: GaussianNaiveBayesModel
+version: 1.0
+description: "Implementation of a Gaussian Naive Bayes model with training, prediction, and accuracy calculation. Includes unit tests and iris dataset example."
+
+metadata:
+  author: "Edouard Clocheret, Eric Fan, Shivam Hingorani and Junhui Huang"
+  language: Python
+  dependencies:
+    - numpy
+    - pandas
+    - pytest
+    - scikit-learn
+
+dependencies:
+  numpy: "^1.21.0"
+  pandas: "^1.3.0"
+  pytest: "^6.0.0"
+  scikit-learn: "^1.0.0"
+
+entry_points:
+  main_script: main.ipynb
+
+files:
+  - main.ipynb
