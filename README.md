@@ -72,7 +72,7 @@ pytest
 ```
 
 ## File Structure
-- `Final_Project_DATA2060_TBG.ipynb`: Jupyter Notebook containing the Gaussian Naive Bayes implementation, unit tests, and example usage.
+- `src/final_project.ipynb`: Jupyter Notebook containing the Gaussian Naive Bayes implementation, unit tests, and example usage.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
