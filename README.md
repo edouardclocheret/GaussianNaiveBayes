@@ -4,10 +4,10 @@ This repository contains an implementation of a Gaussian Naive Bayes model for m
 
 ## Authors
 
-Edouard Clocheret, edouard_clocheret@brown.edu
-Shivam Hingorani,shivam_hingorani@brown.edu
-Junhui Huang, junhui_huang@brown.edu
-Eric Fan, guanghe_fan@brown.edu
+Edouard Clocheret (edouard_clocheret@brown.edu) <br>
+Shivam Hingorani (shivam_hingorani@brown.edu) <br>
+Junhui Huang (junhui_huang@brown.edu) <br>
+Eric Fan (guanghe_fan@brown.edu)
 
 ## Features
 - **Gaussian Naive Bayes Classifier**
@@ -72,7 +72,7 @@ pytest
 ```
 
 ## File Structure
-- `main.ipynb`: Jupyter Notebook containing the Gaussian Naive Bayes implementation, unit tests, and example usage.
+- `Final_Project_DATA2060_TBG.ipynb`: Jupyter Notebook containing the Gaussian Naive Bayes implementation, unit tests, and example usage.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
